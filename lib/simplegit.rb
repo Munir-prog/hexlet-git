@@ -1,5 +1,1 @@
-new line2
-new line3
-new line4
-new line5
-new line6
+hello from dir lib
